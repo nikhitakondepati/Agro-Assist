@@ -1,0 +1,3 @@
+[submodule "packages/flutter_tflite"]
+	path = packages/flutter_tflite
+	url = git@github.com:mnkeis/flutter_tflite.git
